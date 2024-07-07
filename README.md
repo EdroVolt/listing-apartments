@@ -12,7 +12,7 @@ To run this app locally you have two options:
 
 - **Second:** Clone the repo
 
-- **Third:** open you terminal and make sure you are in the project root directory.
+- **Third:** Open your terminal and make sure you are in the project root directory.
 
 - **Forth:** Run the following command:
 
@@ -26,7 +26,7 @@ To run this app locally you have two options:
 
 - **Second:** Clone the repo
 
-- **Third:** open you terminal and make sure you are in the project root directory.
+- **Third:** Open your terminal and make sure you are in the project root directory.
 
 - **Forth:** Run the following command:
 
