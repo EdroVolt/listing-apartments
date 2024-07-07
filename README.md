@@ -34,3 +34,27 @@ To run this app locally you have two options:
   npm i --legacy-peer-deps
   npm run dev
   ```
+
+## Add apartments
+
+Use the following route to app new apartments
+
+```bash
+  http:localhost:8080/apartments
+```
+
+Method: POST
+
+example body:
+
+```JSON
+{
+    "name": "Giza apartment",
+    "description": "Apartment located in Dukki, Giza",
+    "price": 3000000,
+    "size": 140,
+    "images": ["https://www.aveliving.com/AVE/media/Property_Images/Florham%20Park/hero/flor-apt-living-(2)-hero.jpg?ext=.jpg"],
+    "bedRooms": 2,
+    "bathrooms": 1,
+}
+```
